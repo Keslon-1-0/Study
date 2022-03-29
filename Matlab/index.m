@@ -1,0 +1,2 @@
+clear
+load indexd.dat
